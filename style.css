@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
 img {
     width: 500px;
 }
@@ -6,4 +7,11 @@ body {
     font-family: "Arial";
     background: orangered;
     color: white;
+}
+h1 {
+    font-family: "Sniglet";
+    font-size: 70px;
+    text-align: center;
+    color: white;
+    line-height: 60px;
 }
